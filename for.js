@@ -29,3 +29,9 @@ cars.forEach(function (car, index) {
     console.log(index);
     console.log(car);
 });
+
+// ou
+
+cars.forEach(car=> {
+    console.log(car);
+})
