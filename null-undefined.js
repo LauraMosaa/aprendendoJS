@@ -1,3 +1,5 @@
+// alert("Hello World");
+
 // Null e Undefined
 
 const x = null; // nulo

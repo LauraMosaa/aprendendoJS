@@ -1,3 +1,5 @@
+// alert("Hello World");
+
 // Operações matemáticas
 
 const a = 20;

@@ -1,3 +1,5 @@
+// alert("Hello World");
+
 // Exemplo de Objeto
 
 const person = {

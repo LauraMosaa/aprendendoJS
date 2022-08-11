@@ -1,3 +1,5 @@
+// alert("Hello World");
+
 // Variáveis
 
 // var (não é mais usada)

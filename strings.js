@@ -1,3 +1,5 @@
+// alert("Hello World");
+
 // Strings " "
 
 const firstName = "Laura";
@@ -13,6 +15,7 @@ console.log(`Meu nome é ${firstName.toUpperCase()} ${lastName.toLowerCase()}`);
 // cortar em listas
 
 const names = "Felipe,João,Júlia";
+const name = "Laura";
 
 console.log(names.split(",")); // com a vírgula
-console.log(names.split("")); // sem a vírgula
+console.log(name.split("")); // sem a vírgula

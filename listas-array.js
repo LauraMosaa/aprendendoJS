@@ -1,3 +1,5 @@
+// alert("Hello World");
+
 // Listas (array)
 
 const list = ["Felipe", "João", "Júlia", 10, false];
